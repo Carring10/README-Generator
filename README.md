@@ -2,7 +2,7 @@
 
   ## Description
 
-  Track weather forecast
+  Track future forecasts
 
   ## Table of Contents
 
@@ -12,33 +12,33 @@
 
   ## Installation
 
-   1. click live site
+   1. click it
 
   ## Instructions for Use
 
-   Look up city
+   1. just look at it
 
    
    ## License
   
-  MIT 
+  GPLv2 
   
-  https://choosealicense.com/licenses/MIT
+  https://choosealicense.com/licenses/GPLv2
 
-  ![MIT Badge](https://img.shields.io/badge/License-MIT-brightgreen)
+  ![GPLv2 Badge](https://img.shields.io/badge/License-GPLv2-brightgreen)
   
 
    ## Guidelines for Contribuiting
 
-   Open to anyone
+   DONT!!!
 
    ## Application Tests
 
-   Testing
+   no thanks
 
    ## FAQ
 
-   undefined
+   how did u do this? -google
 
 
 

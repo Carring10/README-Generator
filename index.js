@@ -48,8 +48,8 @@ const questions = inquirer
     },
     {
       type: "input",
-      message: "FAQ",
-      name: "questions",
+      message: "What are some FAQ?",
+      name: "faq",
     },
   ])
   .then((userInput) => {
