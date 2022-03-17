@@ -15,11 +15,11 @@ const questions = inquirer
       message: "Provide a short description explaining your project.",
       name: "description",
     },
-    {
-      type: "input",
-      message: "Add a table of contents.",
-      name: "tableOfContents",
-    },
+    // {
+    //   type: "input",
+    //   message: "Add a table of contents.",
+    //   name: "tableOfContents",
+    // },
     {
       type: "input",
       message: "What are the steps to install your project?",
@@ -60,7 +60,6 @@ const questions = inquirer
 // TODO: Create a function to write README file
 
 function writeToFile(fileName, data) {
-  console.log("name", data.name);
   fs.writeFile(fileName, generateMarkdown(data), (err) => {
     err ? console.error(err) : console.log("Success!");
   });
