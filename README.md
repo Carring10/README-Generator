@@ -1,8 +1,8 @@
-# title
+# Weather API
 
   ## Description
 
-  yes
+  Track weather forecast
 
   ## Table of Contents
 
@@ -12,10 +12,34 @@
 
   ## Installation
 
-   1. 2. 
+   1. click live site
 
   ## Instructions for Use
 
-   no
+   Look up city
+
+   
+   ## License
+  
+  MIT 
+  
+  https://choosealicense.com/licenses/MIT
+
+  ![MIT Badge](https://img.shields.io/badge/License-MIT-brightgreen)
+  
+
+   ## Guidelines for Contribuiting
+
+   Open to anyone
+
+   ## Application Tests
+
+   Testing
+
+   ## FAQ
+
+   undefined
+
+
 
   

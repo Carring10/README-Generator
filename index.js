@@ -31,9 +31,10 @@ const questions = inquirer
       name: "usage",
     },
     {
-      type: "input",
+      type: "checkbox",
       message: "License for Use.",
       name: "license",
+      choices: ["MIT", "Apache", "GPLv2", "none"],
     },
     {
       type: "input",
