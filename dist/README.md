@@ -1,13 +1,44 @@
-# README Generator
+# Weather API
 
-## Description
+  ![GPLv2 Badge](https://img.shields.io/badge/License-GPLv2-brightgreen)
 
-Easily create a professional README file by using a command-line application that converts user's input into markdown.
+  ## Description
 
-## Video
+  Get future and current forecasts
 
-![Watch the video](https://drive.google.com/file/d/1-FSN6nnlQmTkazYLKVDXqAY2vuxSSrYO/view)
+  ## Table of Contents
 
-## Usage Information
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
 
-To use: this application is invoked throught the node index.js command
+  ## Installation
+
+   1. 2. 3 .
+
+  ## Usage Information
+
+   Enter your city name
+
+   ## License
+  
+  **This Repository is covered under the GPLv2 license**
+  
+  Read more about the GPLv2 license here: https://choosealicense.com/licenses/GPLv2
+  
+
+   ## Contribuition Guidelines
+
+   Email me first
+
+   ## Test Instructions
+
+   testing...
+
+   ## Questions
+
+   https://github.com/Carring10
+   
+  *If you have any additonal questions, contact me below*
+
+   me@me.com
