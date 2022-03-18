@@ -15,11 +15,6 @@ const questions = inquirer
       message: "Provide a short description explaining your project.",
       name: "description",
     },
-    // {
-    //   type: "input",
-    //   message: "Add a table of contents.",
-    //   name: "tableOfContents",
-    // },
     {
       type: "input",
       message: "What are the steps to install your project?",
@@ -48,8 +43,13 @@ const questions = inquirer
     },
     {
       type: "input",
-      message: "What are some FAQ?",
-      name: "faq",
+      message: "Please enter your GitHub username",
+      name: "github",
+    },
+    {
+      type: "input",
+      message: "Please enter your email",
+      name: "email",
     },
   ])
   .then((userInput) => {
@@ -67,7 +67,9 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+  const newObj = Object.create(questions);
+}
 
 // Function call to initialize app
 init();

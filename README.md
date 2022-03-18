@@ -1,8 +1,10 @@
 # Weather API
 
+  ![GPLv2 Badge](https://img.shields.io/badge/License-GPLv2-brightgreen)
+
   ## Description
 
-  Track future forecasts
+  Get future and current forecasts
 
   ## Table of Contents
 
@@ -12,34 +14,31 @@
 
   ## Installation
 
-   1. click it
+   1. 2. 3 .
 
-  ## Instructions for Use
+  ## Usage Information
 
-   1. just look at it
+   Enter your city name
 
-   
    ## License
   
-  GPLv2 
+  **This Repository is covered under the GPLv2 license**
   
-  https://choosealicense.com/licenses/GPLv2
-
-  ![GPLv2 Badge](https://img.shields.io/badge/License-GPLv2-brightgreen)
+  Read more about the GPLv2 license here: https://choosealicense.com/licenses/GPLv2
   
 
-   ## Guidelines for Contribuiting
+   ## Contribuition Guidelines
 
-   DONT!!!
+   Email me first
 
-   ## Application Tests
+   ## Test Instructions
 
-   no thanks
+   testing...
 
-   ## FAQ
+   ## Questions
 
-   how did u do this? -google
+   https://github.com/Carring10
+   
+  *If you have any additonal questions, contact me below*
 
-
-
-  
+   me@me.com

@@ -22,17 +22,17 @@ function renderLicenseSection(license) {
   if (license == "none") return "";
   return `## License
   
-  ${license} 
+  **This Repository is covered under the ${license} license**
   
-  ${renderLicenseLink(license)}
-
-  ${renderLicenseBadge(license)}
+  Read more about the ${license} license here: ${renderLicenseLink(license)}
   `;
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+
+  ${renderLicenseBadge(data.license)}
 
   ## Description
 
@@ -48,28 +48,27 @@ function generateMarkdown(data) {
 
    ${data.installation}
 
-  ## Instructions for Use
+  ## Usage Information
 
    ${data.usage}
 
-   
    ${renderLicenseSection(data.license)}
 
-   ## Guidelines for Contribuiting
+   ## Contribuition Guidelines
 
    ${data.contributing}
 
-   ## Application Tests
+   ## Test Instructions
 
    ${data.tests}
 
-   ## FAQ
+   ## Questions
 
-   ${data.faq}
+   https://github.com/${data.github}
+   
+  *If you have any additonal questions, contact me below*
 
-
-
-  
+   ${data.email}
 `;
 }
 
